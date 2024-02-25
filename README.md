@@ -18,6 +18,12 @@ To get started with this repository, clone it to your local machine using the fo
 ```
 Then, navigate to the cloned directory and follow the instructions in the Running the Tests section to execute the unit tests.
 
+# Install dependencies 
+
+```bash
+  npm install
+```
+
 ## Running Tests
 
 To run tests, run the following command
