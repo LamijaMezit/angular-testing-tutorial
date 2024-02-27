@@ -31,3 +31,7 @@ To run tests, run the following command
 ```bash
   ng test
 ```
+
+## Screenshots
+
+![Model](https://raw.github.com/LamijaMezit/angular-testing-tutorial/main/angular_app/code_coverage.png)
